@@ -4,7 +4,7 @@
 
 Hello!
 
-My name is Steven, I'm a 5th year Computer Science undergrad with a minor in Cognitive Science. I'm set to graduate UCSD at the end of this year in spring 2022.
+My name is Steven, I'm a 5th year Computer Science undergrad with a minor in Cognitive Science. I'm set to graduate UCSD at the end of this academic year in spring 2022.
 
 
 
@@ -38,6 +38,7 @@ I've interned for 3 different companies over the last 3 summers. In order, they 
 
 Most of my experience has been in full stack `Web Development`, however at RAM Labs I expanded my skillset to have even more specialization in `Design` and `Machine Learning`.
 
+-
 
 (*This webpage is part of an assignment, the README of which can be found* [here](README.md))
 ### Personal TODO on this assignment
