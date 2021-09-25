@@ -14,7 +14,7 @@ My name is Steven, I'm a 5th year Computer Science undergrad with a minor in Cog
 
 
 
-I'm *originall*y from San Diego. I can struggle with interaction at times, but I like to be very socially oriented. Some of my hobbies include:
+I was *born* and *raised* in San Diego. I'm not particularly outgoing, but I spend most of my time with other people. Some of my hobbies include:
 
 - Hiking / long walks
 - Game Development
@@ -46,7 +46,7 @@ Most of my experience has been in full stack `Web Development`, however at RAM L
 - [x] Finish demonstrating core Markdown constructs in the index files
 - [ ] Get an A+ with 100% on the assignment 🎉
 
-[Back to top](https://github.com/ucsdsteveshoe/CSE110Lab1/blob/main/README.md#steven-shoemaker)
+[Back to top](https://ucsdsteveshoe.github.io/CSE110Lab1/)
 
 
 ## Markdown Techniques
@@ -62,9 +62,9 @@ You can quote code by formatting it like `git status`
 
 [External Link](https://tetris.com/play-tetris) to a game I'm pretty good at
 
-[Section Link??](https://github.com/ucsdsteveshoe/CSE110Lab1/blob/main/README.md#steven-shoemaker)
+[Section Link](https://ucsdsteveshoe.github.io/CSE110Lab1/)
 
-[Link to README?](README.md)
+[Relative Link to README](README.md)
 
 - This
 - List
